@@ -4,8 +4,9 @@
 
 <p>Description: Shuttlestack Inc is a technology company that builds products that solve problems in the web development industry.</p> 
 
-<p>Products:</p>
-<p>shuttlestack.com/plugins
+<p>Products:
+<br/>
+shuttlestack.com/plugins<br />
 	- Authentication System
 	- Real-Estate Plugin
 shuttlestack.com/themes
