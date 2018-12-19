@@ -7,35 +7,35 @@
 <p>Products:
 <br/>
 shuttlestack.com/plugins<br />
-	- Authentication System
-	- Real-Estate Plugin
-shuttlestack.com/themes
-	- Shopify Themes
-	- BigCommerce Themes
-	- Themeforest Themes
-black.shuttlestack.com
-	- Projects being build for $10,000+
-	- High quality advanced systems being built for startups
-spaces.shuttlestack.com
-	- Root login for all applications.
-marketplace.shuttlestack.com
-	- Users can upload themes and plugins like envato market. We will take 15%.
-partners.shuttlestack.com
-	- Ambassador program
-shuttlestack.com/download
-	- Shuttlestack mobile application for clients.
-shuttlestack.com/insurance
-	- Insurance for people starting projects.	
-shuttlestack.com/rank
-	- SEO software for web developers.
-mailpop.io
-	- Email designer that integrates with mailchimp, sendgrid, and mailgun.
-getwaddle.com
-	- Grammar based software that fixes the grammar in your entire website.
-caseshare.me
-	- Showcase your skills with a quick and easy portfolio site.
-codepartner.io
-	- Learn how to code with mentors and easy-to-learn courses.
-platformwallet.com
+	- Authentication System<br />
+	- Real-Estate Plugin</br>
+shuttlestack.com/themes<br />
+	- Shopify Themes<br />
+	- BigCommerce Themes<br />
+	- Themeforest Themes<br />
+black.shuttlestack.com<br />
+	- Projects being build for $10,000+<br />
+	- High quality advanced systems being built for startups<br />
+spaces.shuttlestack.com<br />
+	- Root login for all applications.<br />
+marketplace.shuttlestack.com<br />
+	- Users can upload themes and plugins like envato market. We will take 15%.<br />
+partners.shuttlestack.com<br />
+	- Ambassador program<br />
+shuttlestack.com/download<br />
+	- Shuttlestack mobile application for clients.<br />
+shuttlestack.com/insurance<br />
+	- Insurance for people starting projects.<br />	
+shuttlestack.com/rank<br />
+	- SEO software for web developers.<br />
+mailpop.io<br />
+	- Email designer that integrates with mailchimp, sendgrid, and mailgun.<br />
+getwaddle.com<br />
+	- Grammar based software that fixes the grammar in your entire website.<br />
+caseshare.me<br />
+	- Showcase your skills with a quick and easy portfolio site.<br />
+codepartner.io<br />
+	- Learn how to code with mentors and easy-to-learn courses.<br />
+platformwallet.com<br />
 	- Advertisement API to help websites make more money.
 </p>
