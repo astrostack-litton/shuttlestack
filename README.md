@@ -9,33 +9,33 @@
 <b>shuttlestack.com/plugins</b><br />
 	- Authentication System<br />
 	- Real-Estate Plugin</br>
-shuttlestack.com/themes<br />
+<b>shuttlestack.com/themes</b><br />
 	- Shopify Themes<br />
 	- BigCommerce Themes<br />
 	- Themeforest Themes<br />
-black.shuttlestack.com<br />
+<b>black.shuttlestack.com</b><br />
 	- Projects being build for $10,000+<br />
 	- High quality advanced systems being built for startups<br />
-spaces.shuttlestack.com<br />
+<b>spaces.shuttlestack.com</b><br />
 	- Root login for all applications.<br />
-marketplace.shuttlestack.com<br />
+<b>marketplace.shuttlestack.com</b><br />
 	- Users can upload themes and plugins like envato market. We will take 15%.<br />
-partners.shuttlestack.com<br />
+<b>partners.shuttlestack.com</b><br />
 	- Ambassador program<br />
-shuttlestack.com/download<br />
+<b>shuttlestack.com/download</b><br />
 	- Shuttlestack mobile application for clients.<br />
-shuttlestack.com/insurance<br />
+<b>shuttlestack.com/insurance</b><br />
 	- Insurance for people starting projects.<br />	
-shuttlestack.com/rank<br />
+<b>shuttlestack.com/rank</b><br />
 	- SEO software for web developers.<br />
-mailpop.io<br />
+<b>mailpop.io</b><br />
 	- Email designer that integrates with mailchimp, sendgrid, and mailgun.<br />
-getwaddle.com<br />
+<b>getwaddle.com</b><br />
 	- Grammar based software that fixes the grammar in your entire website.<br />
-caseshare.me<br />
+<b>caseshare.me</b><br />
 	- Showcase your skills with a quick and easy portfolio site.<br />
-codepartner.io<br />
+<b>codepartner.io</b><br />
 	- Learn how to code with mentors and easy-to-learn courses.<br />
-platformwallet.com<br />
+<b>platformwallet.com</b><br />
 	- Advertisement API to help websites make more money.
 </p>
