@@ -1,10 +1,10 @@
-Shuttlestack Inc
+<h1>Shuttlestack Inc</h1>
 
-Domain: https://www.shuttlestack.com
+<p>Domain: https://www.shuttlestack.com</p>
 
-Description: Shuttlestack Inc is a technology company that builds products that solve problems in the web development industry. 
+<p>Description: Shuttlestack Inc is a technology company that builds products that solve problems in the web development industry.</p> 
 
-Products:
+<p>Products:</p>
 shuttlestack.com/plugins
 	- Authentication System
 	- Real-Estate Plugin
