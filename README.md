@@ -6,7 +6,7 @@
 
 <p>Products:
 <br/>
-shuttlestack.com/plugins<br />
+<b>shuttlestack.com/plugins</b><br />
 	- Authentication System<br />
 	- Real-Estate Plugin</br>
 shuttlestack.com/themes<br />
