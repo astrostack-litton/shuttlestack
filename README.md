@@ -1,11 +1,11 @@
-<h1>Shuttlestack Inc</h1>
+<h1>Shuttlestack Inc.</h1>
 
 <p>Domain: https://www.shuttlestack.com</p>
 
 <p>Description: Shuttlestack Inc is a technology company that builds products that solve problems in the web development industry.</p> 
 
 <p>Products:</p>
-shuttlestack.com/plugins
+<p>shuttlestack.com/plugins
 	- Authentication System
 	- Real-Estate Plugin
 shuttlestack.com/themes
@@ -37,3 +37,4 @@ codepartner.io
 	- Learn how to code with mentors and easy-to-learn courses.
 platformwallet.com
 	- Advertisement API to help websites make more money.
+</p>
